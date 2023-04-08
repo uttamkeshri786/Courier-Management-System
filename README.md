@@ -1,4 +1,4 @@
-CourierManagementSystem
+Courier Management System
 ===
 
 The courier management system for small business that schedules jobs, calculates costs, vehicle and vehicle maintenance and exporting reports for management.
@@ -26,7 +26,7 @@ The Project can be setup locally with the following steps.
 
 Use `git clone` to clone this repo to your local machine:
 ```
-    $ git clone https://github.com/JamasAlberta/CourierManagementSystem
+    $ git clone https://github.com/uttamkeshri786/Courier-Management-System
 ```
 
 The Project uses MySQL for database so install this DB onto your local machine.
